@@ -1,26 +1,3 @@
-Here’s the **README content (summary + actual structure)** from the repository you shared:
-
-🔗 **Repository:** [https://github.com/shadow-byte-warrior/chronical-disease-prediction](https://github.com/shadow-byte-warrior/chronical-disease-prediction) ([GitHub][1])
-
----
-
-## 📌 **README Summary — chronical-disease-prediction**
-
-Unfortunately, this repository currently **does NOT contain a README.md file** — so there’s **no documentation or project description** in the repo itself. What we *do* see is just the code and assets in the project. ([GitHub][1])
-
-### ❗ Repository Info
-
-* **Name:** chronical-disease-prediction
-* **Owner:** shadow-byte-warrior
-* **Contents:** Python back-end, dataset file, trained model, scaler, front-end folder, etc. ([GitHub][1])
-* **Status:** No README provided. ([GitHub][1])
-
----
-
-## 🛠️ **Suggested README.md (Implementation-Ready)**
-
-You can add this file to your project root to explain your project clearly:
-
 ```markdown
 # Chronical Disease Prediction
 
